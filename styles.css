@@ -1,0 +1,46 @@
+/*Home Page*/
+
+.welcome {
+    color: purple;
+  }
+.introduction {
+    color: blue;
+  }
+
+/*About Page*/
+.heading {
+    color: purple;
+  }
+.bio {
+    color: blue;
+  }
+.inte {
+    color: blue;
+  }
+
+/*Contact Page*/
+
+input {
+    background-color: yellow;
+  }
+.btn {
+    background-color: white;
+  }
+label {
+    color: blue;
+  }
+
+body {
+    background-color: azure;
+}
+
+/*Nav Bar*/
+
+nav {
+    background-color: grey;
+    width: 220px;
+}
+
+a {
+    color: blue;
+}
